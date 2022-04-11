@@ -239,15 +239,15 @@ h1 {
 }
 
 .button_blue {
-    background: #4285F4;
+    background: #42f454;
 }
 
 .button:hover {
-    background: #4285F4;
+    background: #000000;
 }
 
 .button_blue:hover {
-    background: #EC5863;
+    background: #7a58ec;
 }
 
 @media (max-width:992px) {
